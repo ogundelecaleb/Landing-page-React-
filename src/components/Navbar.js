@@ -29,7 +29,7 @@ function Navbar() {
       <nav className="navbar">
         <div className="navbar-container">
           <Link to="/signUp" className="navbar-logo">
-            TVRL
+            Kaileb
             <i className="fab fa-typo3" />
           </Link>
           <div className="menu-icon" onClick={handleClick}>
