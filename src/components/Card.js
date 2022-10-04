@@ -12,19 +12,19 @@ function Card() {
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItem
-              src="/images/img-9.jpg"
+              src="/images/img-7.jpg"
               text="Explore the hidden waterfall deep inside the Amazon Jungle"
               label="Adventure"
               path="/services"
             />
              <CardItem
-              src="/images/img-9.jpg"
+              src="images/img-9.jpg"
               text="Explore the hidden waterfall deep inside the Amazon Jungle"
               label="Adventure"
               path="/services"
             />
              <CardItem
-              src="/images/img-3.jpg"
+              src="images/img-3.jpg"
               text="Travel through the island of Bali in a Private Cruise"
               label="luxury"
               path="/services"
@@ -32,19 +32,19 @@ function Card() {
           </ul>
           <ul className="cards__items">
             <CardItem
-              src="/images/img-9.jpg"
+              src="images/img-3.jpg"
               text="Explore the hidden waterfall deep inside the Amazon Jungle"
               label="Adventure"
               path="/services"
             />
              <CardItem
-              src="/images/img-9.jpg"
+              src="images/img-6.jpg"
               text="Explore the hidden waterfall deep inside the Amazon Jungle"
               label="Adventure"
               path="/services"
             />
              <CardItem
-              src="/images/img-9.jpg"
+              src="images/img-1.jpg"
               text="Travel through the island of Bali in a Private Cruise"
               label="luxury"
               path="/services"
